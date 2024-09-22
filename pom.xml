@@ -26,7 +26,7 @@
     <properties>
         <artifact.suffix/>
         <shade.skip>false</shade.skip>
-        <java-compat.version>1.7</java-compat.version>
+        <java-compat.version>11</java-compat.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -478,7 +478,7 @@
                 </executions>
             </plugin>
 
-            <plugin>
+            <!-- <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>animal-sniffer-maven-plugin</artifactId>
                 <version>1.18</version>
@@ -498,7 +498,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> -->
         </plugins>
 
         <resources>
