@@ -1,4 +1,6 @@
-# (OBSOLETE) Couchbase JVM Core (core-io)
+# Couchbase JVM Core (core-io)
+
+# Test data for shading capabilities.
 
 **NOTE: This repository contains the 2.x SDK series, which reached End of Life in March 2022.
 We recommend that you check out our 3.x series, which can be found here: https://github.com/couchbase/couchbase-jvm-clients**
